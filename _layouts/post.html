@@ -17,3 +17,9 @@ layout: default
   </div>
 
 </article>
+{% if page.comments %}
+<h2>Comentários</h2>
+<div class="comments">
+  {% include disqus.html %}
+</div>
+{% endif %}

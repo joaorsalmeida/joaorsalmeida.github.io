@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Boas vindas, mais uma vez..."
 date:   2015-12-05 15:24:40 -0200
 categories: noticias
