@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Boas vindas, mais uma vez..."
 date:   2015-12-05 15:24:40 -0200
-categories: jekyll update
+categories: noticias
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Já faz um tempo que esse domínio estava abandonado. Se você esteve por aqui nos
+últimos meses e viu uma página de teste deixo meu sincero pedido de desculpas.
+Mas agora são novos tempos e com certeza não abandonarei as publicações por
+aqui.
+
+
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
