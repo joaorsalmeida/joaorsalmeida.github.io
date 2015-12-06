@@ -10,22 +10,26 @@ Já faz um tempo que esse domínio estava abandonado. Se você esteve por aqui n
 Mas agora são novos tempos e com certeza não abandonarei as publicações por
 aqui.
 
+Um bom jeito de recomeçar é contando sobre os últimos projetos que estou 
+participando. O primeiro deles é o [Campus Code](http://www.campuscode.com.br).
+Em todas empresas que trabalhei sempre tive a oportunidade de repassar um pouco
+de conhecimento para _devs_ no começo da carreira.e sempre foi muito bacana
+fazer isso.
 
+Entre outros vários motivos, esse foi o principal que me fez entrar nessa
+jornada de ter o próprio negócio mais uma vez. O Campus Code é um treinamento
+super intensivo para pessoas que querem se tornar desenvolvedores profissionais
+de software. Em pouco mais de um ano já evoluimos bastante e temos, além do
+nosso próprio espaço perto da Av Paulista, grandes parceiros e vários ex-alunos
+trabalhando em ótimos times de desenvolvimento. Com certeza vou voltar a falar
+muito do Campus Code por aqui :)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Outro projeto que venho dedicando boa parte do meu tempo é o [Code
+Saga](http://www.codesaga.com.br). O Code Saga nasceu da necessidade de
+oferecermos algum conteúdo pré-Campus Code para os interessados. Assim como o
+Campus Code não é um curso tradicional, o Code Saga foge da idéia de programar
+no browser como outras plataformas famosas fazem. O participante precisa
+configurar sua máquina, baixar código e resolver problemas reais, assim como o
+dia a dia de um desenvolvedor numa empresa, simples assim :)
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Por enquanto é isso. Até o próximo post :)
